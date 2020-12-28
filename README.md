@@ -1,2 +1,2 @@
-# python_projects
-A collection of Python projects which I've practiced on my way to learn the Python programming language.
+# Data_Science_Portfolio
+A collection of Data Science projects which I've worked on, presented in the form of iPython Notebooks.
