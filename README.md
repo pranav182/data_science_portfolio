@@ -42,20 +42,20 @@ Accessed the pre-trained Inception V3 model to predict the class of an input ima
 1. [Deploy machine learning models to production:](https://github.com/pranav182/deployment_ML)
 Trained a ML model on MNIST and loaded it through FLASK app to predict class of a new image.
 
-*Tools: flask, Linux.*
+*Tools: Flask, Linux.*
 
 ## Data Analysis and Statistics:
 
 1. [Project for Descriptive Statistics:](https://github.com/pranav182/data_science_portfolio/blob/main/Descriptive_Analysis.ipynb)
 Learnt to analye data and find the mean, median, variance, standard deviation, plotting histograms, density plots, box plots and drawing inferences.
 
-*Tools: Pandas, Numpy, Matplotlib*
+*Tools: Pandas, Numpy, Matplotlib.*
 
 ## Python programming:
 
 1. [Analyze Emails:](https://github.com/pranav182/data_science_portfolio/blob/main/python_project_churn_emails.ipynb)
 Churned the mail activity from various individuals in an open source project development team.
 
-2. [Built a complete BlackJack game from scratch using OOP:](https://github.com/pranav182/data_science_portfolio/blob/main/01-Milestone%20Project%202%20-%20Assignment.ipynb)
+2. [Built a complete BlackJack game from scratch using OOP](https://github.com/pranav182/data_science_portfolio/blob/main/01-Milestone%20Project%202%20-%20Assignment.ipynb)
 
 *Tools: Python.*
