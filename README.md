@@ -20,7 +20,7 @@ Achieved 97.89%  Precision and 97.89% Recall on a machine learning model to clas
 Classified images from the Fashion MNIST dataset using scikit-learn, Python and machine learning algorithms obtaining 85% accuracy on the test data.
 
 7. [Credit Card Fraud Detection:](https://github.com/pranav182/data_science_portfolio/blob/main/credit_card_fraud_detection.ipynb)
-Applied the SMOTE technique to oversample the train data as the data was highly imbalanced and formed a new dataset with the thus obtained over-sampled datapoints. Achieved 92.5% recall rate on the Europe credit-card transaction data of 2 days to detect whether a transaction is fradulent or not.
+Applied the SMOTE technique to oversample the train data as the data was highly imbalanced and formed a new dataset with the thus obtained over-sampled datapoints. Achieved 92.5% recall rate on the Europe credit-card transaction data of 2 days to detect whether a transaction is fraudulent or not.
 
 *Tools: Numpy, Scikit-learn, Pandas, Matplotlib.*
 
