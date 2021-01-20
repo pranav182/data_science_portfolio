@@ -4,6 +4,7 @@ A collection of Data Science projects which I've worked on, presented in the for
 
 # Contents
 ## Machine Learning Fundamentals:
+
 1. [Predict bikes rental demand:](https://github.com/pranav182/data_science_portfolio/blob/main/project_bike_rental_forecasting_basic.ipynb)
 Built a machine learning model to predict the bikes demand given the past data using various best possible ML algorithms. Experimented with various models and checked which model performs best, fine-tuned the same model using one of the model fine-tuning techniques and found the best possible combination of hyperparameters for the selected model. Selected the model to make final predictions and compared the predicted values with the actual values.
 
@@ -37,7 +38,7 @@ Demonstrated how to build a custom loss function in a neural network using tenso
 
 *Tools: Numpy, Tensorflow, Keras.*
 
-## Convolutional Neural Networks and Transfer Learning:
+- ### Convolutional Neural Networks and Transfer Learning:
 
 1. [Classify Fashion-MNIST using Tensorflow:](https://github.com/pranav182/data_science_portfolio/blob/main/building_a_cnn_classifier_using_tensorflow_2_for_mnist_fashion_dataset.ipynb)
 Built a CNN model to classify images from the Fashion MNIST dataset using Tensorflow 2, Matplotlib, and Python achieving accuracy of over 88% in 3 epochs.
