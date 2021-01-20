@@ -45,10 +45,27 @@ Demonstrated how to build a custom loss function in a neural network using tenso
 1. [Classify Fashion-MNIST using Tensorflow:](https://github.com/pranav182/data_science_portfolio/blob/main/building_a_cnn_classifier_using_tensorflow_2_for_mnist_fashion_dataset.ipynb)
 Built a CNN model to classify images from the Fashion MNIST dataset using Tensorflow 2, Matplotlib, and Python achieving accuracy of over 88% in 3 epochs.
 
-2. [Image Classification with Pre-trained InceptionV3 Network:](https://github.com/pranav182/data_science_portfolio/blob/main/image_classification_with_pretrained_inception_network.ipynb)
+2. [Training from scratch V/S Transfer learning:](https://github.com/pranav182/data_science_portfolio/blob/main/training_from_scratch_vs_TL.ipynb)
+Demonstrated the fundamental idea of transfer learning.
+
+3. [Image Classification with Pre-trained InceptionV3 Network:](https://github.com/pranav182/data_science_portfolio/blob/main/image_classification_with_pretrained_inception_network.ipynb)
 Accessed the pre-trained Inception V3 model to predict the class of an input image.
 
+4. [Transfer learning to predict cat v/s non cat:](https://github.com/pranav182/data_science_portfolio/blob/main/cats_vs_noncats_using_transfer_learning_515.ipynb)
+Used transfer learning through VGG16 model to achieve 88% test accuracy on image dataset of cats and non cats.
+
+5. [Object Detection and Segmentation:](https://github.com/pranav182/data_science_portfolio/blob/main/object_detection_and_segmentation_with_opencv_and_tensorflow_mask_rcnn_578.ipynb)
+Successfully detected objects from an image using pre-trained R-Mask CNN model with inception 2.
+
+6. [Art Generation using Neural Style transfer:](https://github.com/pranav182/data_science_portfolio/blob/main/artistic_neural_style_transfer_558.ipynb)
+Used deep learning to succesfully compose one image in the style of another image.
+
 *Tools: Tensorflow, Keras.*
+
+- ### Recurrent Neural Networks:
+
+1. [Stock price prediction:](https://github.com/pranav182/data_science_portfolio/blob/main/nyse_closing_price_prediction_520.ipynb)
+Built a RNN model based on GRU to predict the closing price of a stock of YAHOO.
 
 ## Deployment:
 
