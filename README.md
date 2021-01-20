@@ -25,15 +25,17 @@ Applied the SMOTE technique to oversample the train data as the data was highly 
 
 *Tools: Numpy, Scikit-learn, Pandas, Matplotlib.*
 
-## Neural Networks and Deep Learning:
+## Deep Learning:
+
+- ### Fundamentals of Neural Networks:
 
 1. [Cat-Noncat classifier:](https://github.com/pranav182/data_science_portfolio/blob/main/build_an_image_classifier_with_numpy_cats_vs_noncats.ipynb)
 Built a cat vs non-cat classifier using logistic regression, Numpy without using any packages like tensorflow.
 
-2. [Neural Network for Image Classification using Tensorflow and Keras](https://github.com/pranav182/data_science_portfolio/blob/main/building_an_image_classifier.ipynb)
+2. [Neural Network for Image Classification using Tensorflow and Keras:](https://github.com/pranav182/data_science_portfolio/blob/main/building_an_image_classifier.ipynb)
 Built a basic Neural network to clasify fashion_mnist images with an accuracy of 88%.
 
-3. [Build a custom loss function](https://github.com/pranav182/data_science_portfolio/blob/main/working_with_custom_loss_function.ipynb)
+3. [Build a custom loss function:](https://github.com/pranav182/data_science_portfolio/blob/main/working_with_custom_loss_function.ipynb)
 Demonstrated how to build a custom loss function in a neural network using tensorflow and keras.
 
 *Tools: Numpy, Tensorflow, Keras.*
