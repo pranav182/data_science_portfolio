@@ -29,10 +29,20 @@ Applied the SMOTE technique to oversample the train data as the data was highly 
 1. [Cat-Noncat classifier:](https://github.com/pranav182/data_science_portfolio/blob/main/build_an_image_classifier_with_numpy_cats_vs_noncats.ipynb)
 Built a cat vs non-cat classifier using logistic regression, Numpy without using any packages like tensorflow.
 
-2. [Classify Fashion-MNIST using Tensorflow:](https://github.com/pranav182/data_science_portfolio/blob/main/building_a_cnn_classifier_using_tensorflow_2_for_mnist_fashion_dataset.ipynb)
-Classified images from the Fashion MNIST dataset using Tensorflow 2, Matplotlib, and Python achievveing accuracy of 88%.
+2. [Neural Network for Image Classification using Tensorflow and Keras](https://github.com/pranav182/data_science_portfolio/blob/main/building_an_image_classifier.ipynb)
+Built a basic Neural network to clasify fashion_mnist images with an accuracy of 88%.
 
-3. [Image Classification with Pre-trained InceptionV3 Network:](https://github.com/pranav182/data_science_portfolio/blob/main/image_classification_with_pretrained_inception_network.ipynb)
+3. [Build a custom loss function](https://github.com/pranav182/data_science_portfolio/blob/main/working_with_custom_loss_function.ipynb)
+Demonstrated how to build a custom loss function in a neural network using tensorflow and keras.
+
+*Tools: Numpy, Tensorflow, Keras.*
+
+## Convolutional Neural Networks and Transfer Learning:
+
+1. [Classify Fashion-MNIST using Tensorflow:](https://github.com/pranav182/data_science_portfolio/blob/main/building_a_cnn_classifier_using_tensorflow_2_for_mnist_fashion_dataset.ipynb)
+Built a CNN model to classify images from the Fashion MNIST dataset using Tensorflow 2, Matplotlib, and Python achieving accuracy of over 88% in 3 epochs.
+
+2. [Image Classification with Pre-trained InceptionV3 Network:](https://github.com/pranav182/data_science_portfolio/blob/main/image_classification_with_pretrained_inception_network.ipynb)
 Accessed the pre-trained Inception V3 model to predict the class of an input image.
 
 *Tools: Tensorflow, Keras.*
