@@ -61,7 +61,7 @@ Accessed the pre-trained Inception V3 model to predict the class of an input ima
 4. [Transfer learning to predict cat v/s non cat:](https://github.com/pranav182/data_science_portfolio/blob/main/cats_vs_noncats_using_transfer_learning_515.ipynb)
 Used transfer learning through VGG16 model to achieve 88% test accuracy on image dataset of cats and non cats.
 
-5. [Object Detection and Segmentation:](https://github.com/pranav182/data_science_portfolio/blob/main/object_detection_and_segmentation_with_opencv_and_tensorflow_mask_rcnn_578.ipynb)
+5. [Object Detection and Segmentation:](https://github.com/pranav182/data_science_portfolio/blob/main/object_detection.ipynb)
 Successfully detected objects from an image using pre-trained R-Mask CNN model with inception 2.
 
 6. [Art Generation using Neural Style transfer:](https://github.com/pranav182/data_science_portfolio/blob/main/artistic_neural_style_transfer_558.ipynb)
