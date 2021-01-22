@@ -81,7 +81,7 @@ Built a RNN model based on GRU to predict the closing price of a stock of YAHOO.
 1. [Web-app for image classification using deep learning:](https://github.com/pranav182/web-app_flask_image_classification)
 Successfully built a complete web based application using pretrained image classification model which predicts the class of a given/uploaded image.
 
-*Tools: HTML, Css, Linux, Tensorflow2, Keras.
+*Tools: HTML, Css, Linux, Flask, Tensorflow2, Keras.**
 
 ## Data Analysis and Statistics:
 
