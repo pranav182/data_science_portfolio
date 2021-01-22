@@ -25,6 +25,13 @@ Applied the SMOTE technique to oversample the train data as the data was highly 
 
 *Tools: Numpy, Scikit-learn, Pandas, Matplotlib.*
 
+## Deployment of Machine Learning Model:
+
+1. [Deploy machine learning models to production:](https://github.com/pranav182/deployment_ML)
+Trained a ML model on MNIST and loaded it through FLASK app to predict class of a new image.
+
+*Tools: Flask, Linux.*
+
 ## Deep Learning:
 
 - ### Fundamentals of Neural Networks:
@@ -60,19 +67,21 @@ Successfully detected objects from an image using pre-trained R-Mask CNN model w
 6. [Art Generation using Neural Style transfer:](https://github.com/pranav182/data_science_portfolio/blob/main/artistic_neural_style_transfer_558.ipynb)
 Used deep learning to succesfully compose one image in the style of another image.
 
-*Tools: Tensorflow, Keras.*
+*Tools: Tensorflow, Keras, OpenCV.*
 
 - ### Recurrent Neural Networks:
 
 1. [Stock price prediction:](https://github.com/pranav182/data_science_portfolio/blob/main/nyse_closing_price_prediction_520.ipynb)
 Built a RNN model based on GRU to predict the closing price of a stock of YAHOO.
 
-## Deployment:
+*Tools: Tensorflow2, Keras.
 
-1. [Deploy machine learning models to production:](https://github.com/pranav182/deployment_ML)
-Trained a ML model on MNIST and loaded it through FLASK app to predict class of a new image.
+## Deployment of Deep Learning Model:
 
-*Tools: Flask, Linux.*
+1. [Web-app for image classification using deep learning:](https://github.com/pranav182/web-app_flask_image_classification)
+Successfullly built a complete web based application using pretrained image classification model which predicts the class of a given/uploaded image.
+
+*Tools: HTML, Css, Linux, Tensorflow2, Keras.
 
 ## Data Analysis and Statistics:
 
