@@ -74,7 +74,10 @@ Used deep learning to succesfully compose one image in the style of another imag
 1. [Stock price prediction:](https://github.com/pranav182/data_science_portfolio/blob/main/nyse.ipynb)
 Built a RNN model based on GRU to predict the closing price of a stock of YAHOO.
 
-*Tools: Tensorflow2, Keras.
+2. [Sentiment classifier for IMDB reviews](https://github.com/pranav182/data_science_portfolio/blob/main/imdb_review.ipynb)
+Processed English sentences, applied NLP techniques, made the deep learning model understand the context of the sentence, and classified the sentiment the sentence implies.
+
+*Tools: Python, Tensorflow2, Keras.
 
 ## Deployment of Deep Learning Model:
 
