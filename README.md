@@ -71,7 +71,7 @@ Used deep learning to succesfully compose one image in the style of another imag
 
 - ### Recurrent Neural Networks:
 
-1. [Stock price prediction:](https://github.com/pranav182/data_science_portfolio/blob/main/nyse_closing_price_prediction_520.ipynb)
+1. [Stock price prediction:](https://github.com/pranav182/data_science_portfolio/blob/main/nyse.ipynb)
 Built a RNN model based on GRU to predict the closing price of a stock of YAHOO.
 
 *Tools: Tensorflow2, Keras.
