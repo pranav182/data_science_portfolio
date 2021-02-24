@@ -23,6 +23,9 @@ Classified images from the Fashion MNIST dataset using scikit-learn, Python and 
 7. [Credit Card Fraud Detection:](https://github.com/pranav182/data_science_portfolio/blob/main/credit_card_fraud_detection.ipynb)
 Applied the SMOTE technique to oversample the train data as the data was highly imbalanced and formed a new dataset with the thus obtained over-sampled datapoints. Achieved 92.5% recall rate on the Europe credit-card transaction data of 2 days to detect whether a transaction is fraudulent or not.
 
+8. [Real estate price prediction:](https://github.com/pranav182/data_science_portfolio/blob/main/real_estate_price_prediction.ipynb)
+Cleaned and feature engineered the Bangalore real estate home prices data and built a real estate prediction model. Applied techniques such as outlier detection and removal, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc.
+
 *Tools: Numpy, Scikit-learn, Pandas, Matplotlib.*
 
 ## Deployment of Machine Learning Model:
